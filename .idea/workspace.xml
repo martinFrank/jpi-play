@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4270f5e7-6f89-4b1b-9051-576bc47a696e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_pi4j_pi4j_core_1_3_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jpi-play.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pins.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/martinfrank/jpiplay/JPiPlay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZqgO1OgCIuAZ3WXphAxM4oMNkq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4270f5e7-6f89-4b1b-9051-576bc47a696e" name="Default Changelist" comment="" />
+      <created>1585572002978</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585572002978</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="448" y="284" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585572230927">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state x="448" y="284" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.974@0.23.1680.974" timestamp="1585572230927" />
+    <state width="1192" height="228" key="GridCell.Tab.0.bottom" timestamp="1585573763456">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state width="1192" height="228" key="GridCell.Tab.0.bottom/0.23.1680.974@0.23.1680.974" timestamp="1585573627787" />
+    <state width="1192" height="228" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1585573763456" />
+    <state width="1192" height="228" key="GridCell.Tab.0.center" timestamp="1585573763455">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state width="1192" height="228" key="GridCell.Tab.0.center/0.23.1680.974@0.23.1680.974" timestamp="1585573627786" />
+    <state width="1192" height="228" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1585573763455" />
+    <state width="1192" height="228" key="GridCell.Tab.0.left" timestamp="1585573763454">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state width="1192" height="228" key="GridCell.Tab.0.left/0.23.1680.974@0.23.1680.974" timestamp="1585573627786" />
+    <state width="1192" height="228" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1585573763454" />
+    <state width="1192" height="228" key="GridCell.Tab.0.right" timestamp="1585573763456">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state width="1192" height="228" key="GridCell.Tab.0.right/0.23.1680.974@0.23.1680.974" timestamp="1585573627787" />
+    <state width="1192" height="228" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1585573763456" />
+    <state x="198" y="111" key="SettingsEditor" timestamp="1585572248863">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state x="198" y="111" key="SettingsEditor/0.23.1680.974@0.23.1680.974" timestamp="1585572248863" />
+  </component>
+</project>
