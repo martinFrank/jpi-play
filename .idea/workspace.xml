@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4270f5e7-6f89-4b1b-9051-576bc47a696e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/martinfrank/jpiplay/JPiPlay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/martinfrank/jpiplay/JPiPlay.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,22 +51,40 @@
       <option name="project" value="LOCAL" />
       <updated>1585573792276</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial setup">
+      <created>1585746578377</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585746578377</updated>
+    </task>
+    <task id="LOCAL-00003" summary="initial setup">
+      <created>1585746656250</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585746656250</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="initial setup" />
     <option name="LAST_COMMIT_MESSAGE" value="initial setup" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="448" y="284" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585572230927">
       <screen x="0" y="23" width="1680" height="974" />
     </state>
     <state x="448" y="284" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.974@0.23.1680.974" timestamp="1585572230927" />
-    <state x="246" y="100" key="CommitChangelistDialog2" timestamp="1585746577915">
-      <screen x="0" y="23" width="1680" height="975" />
+    <state x="246" y="100" key="CommitChangelistDialog2" timestamp="1585747181061">
+      <screen x="0" y="23" width="1680" height="974" />
     </state>
-    <state x="246" y="100" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1585746577915" />
+    <state x="246" y="100" key="CommitChangelistDialog2/0.23.1680.974@0.23.1680.974" timestamp="1585747181061" />
+    <state x="246" y="100" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1585746655873" />
     <state width="1192" height="227" key="GridCell.Tab.0.bottom" timestamp="1585629474783">
       <screen x="0" y="23" width="1680" height="974" />
     </state>
@@ -96,11 +113,11 @@
       <screen x="0" y="23" width="1680" height="974" />
     </state>
     <state x="198" y="111" key="SettingsEditor/0.23.1680.974@0.23.1680.974" timestamp="1585572248863" />
-    <state x="285" y="237" key="Vcs.Push.Dialog.v2" timestamp="1585746580418">
+    <state x="285" y="237" key="Vcs.Push.Dialog.v2" timestamp="1585746661597">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="285" y="237" key="Vcs.Push.Dialog.v2/0.23.1680.974@0.23.1680.974" timestamp="1585574042292" />
-    <state x="285" y="237" key="Vcs.Push.Dialog.v2/0.23.1680.975@0.23.1680.975" timestamp="1585746580418" />
+    <state x="285" y="237" key="Vcs.Push.Dialog.v2/0.23.1680.975@0.23.1680.975" timestamp="1585746661597" />
     <state x="345" y="396" key="com.intellij.ide.util.TipDialog" timestamp="1585746264643">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
